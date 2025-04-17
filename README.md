@@ -30,7 +30,7 @@ This project contains automated test scripts for the website [demoblaze.com](htt
    - JUnit: Run test classes directly
 
 ## 📊 Test Results
-All test cases have been executed and passed successfully. Detailed results are documented in the final report (Word format).
+All test cases have been executed. Detailed results are documented in the final report (Word format).
 
 ## ✍️ Author
 - Gerges Samer
